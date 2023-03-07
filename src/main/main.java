@@ -2,7 +2,7 @@ package main;
 
 public class main {
 public static void main (String[]args) {
-    System.out.printf("");
+    System.out.printf("Jorrit");
     }
 }
 
